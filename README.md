@@ -10,27 +10,34 @@ Diante desse cenário, avaliamos que seria mais útil para a empresa convidada r
 
 ## Contexto e Escopo
 
-* **Unidade avaliada:** Bovinu'S Grill & Beer – Augusta (São Paulo/SP).
-* **Recorte principal:** Serviço de almoço self-service por peso e jornada do cliente (*se servir e ser atendido*), distribuída entre buffet/churrasqueira/balança e os salões (Principal, Superior e Inferior).
-* **Diretrizes respeitadas:** Manutenção do sistema por peso e do fluxo atual de caixas/saída, respeito às fronteiras de cozinha/compras/estoque e foco em soluções realistas e aplicáveis.
+- **Unidade avaliada:** Bovinu'S Grill & Beer – Augusta (São Paulo/SP).
+- **Recorte principal:** Serviço de almoço self-service por peso e jornada do cliente (*se servir e ser atendido*), distribuída entre buffet/churrasqueira/balança e os salões (Principal, Superior e Inferior).
+- **Diretrizes respeitadas:** Manutenção do sistema por peso e do fluxo atual de caixas/saída, respeito às fronteiras de cozinha/compras/estoque e foco em soluções realistas e aplicáveis.
 
 ## Estrutura da Documentação (Arquivos PDF)
 
 > Nota: O GitHub suporta nativamente a visualização e o download de arquivos `.pdf`, o que garante que a formatação, tabelas e diagramas textuais permaneçam fiéis ao material produzido pela equipe.
 
-* **`Visao_Geral_Propostas_Hackathon.pdf`** — Documento consolidador com o panorama geral das soluções, sinergias entre as frentes, premissas de escopo e roteiro sugerido de implantação em fases.
-* **`Proposta_01_Taxa_Saida_Buffet.pdf`** — Abordagens para o **mix do prato servido** e **giro/reposição das cubas**, comparando registro leve na passagem/cozinha com pesagem individual por cuba no buffet.
-* **`Proposta_02_Limpeza_Mesas.pdf`** — Alternativas para reduzir o tempo em que as mesas ficam sujas nos salões (**botão na mesa + pagers**, análise crítica de *checkout* na mesa fora do escopo e **câmeras** nas abordagens com visão computacional ou monitoramento).
-* **`Proposta_03_Filas_Fluxo.pdf`** — Otimização de **filas e tempos de espera**, integrando o atendimento em mesa via *pagers*, duplicação sinalizada de itens de maior saída e avaliação de rotas/layout.
-* **`Proposta_04_Qualidade_Sobras.pdf`** — Abordagem prática para **qualidade e sobras no prato**, combinando observação na devolução, sinais na pista, diferenciação entre padrão individual (saciedade/exagero) e coletivo (possível falha de qualidade) e integração com o canal de feedback existente.
+### Documentos na Raiz do Repositório (`main`)
+
+- **`Visao_Geral_Propostas_Hackathon.pdf`** — Documento consolidador com o panorama geral das soluções, sinergias entre as frentes, premissas de escopo e roteiro sugerido de implantação em fases.
+- **`Proposta_01_Taxa_Saida_Buffet.pdf`** — Abordagens para o **mix do prato servido** e **giro/reposição das cubas**, comparando registro leve na passagem/cozinha com pesagem individual por cuba no buffet.
+- **`Proposta_02_Limpeza_Mesas.pdf`** — Alternativas para reduzir o tempo em que as mesas ficam sujas nos salões (**botão na mesa + pagers**, análise crítica de *checkout* na mesa fora do escopo e **câmeras** nas abordagens com visão computacional ou monitoramento).
+- **`Proposta_03_Filas_Fluxo.pdf`** — Otimização de **filas e tempos de espera**, integrando o atendimento em mesa via *pagers*, duplicação sinalizada de itens de maior saída e avaliação de rotas/layout.
+- **`Proposta_04_Qualidade_Sobras.pdf`** — Abordagem prática para **qualidade e sobras no prato**, combinando observação na devolução, sinais na pista, diferenciação entre padrão individual (saciedade/exagero) e coletivo (possível falha de qualidade) e integração com o canal de feedback existente.
+
+### Material de Apresentação (`apresentação/`)
+
+- **`apresentação/Apresentação - Hackathon FMU & Bovinu'S 2026.2 — Solução Integrada.pdf`** — Deck executivo de 5 slides sintetizando o diagnóstico, a arquitetura integrada e o roadmap de implantação para a banca avaliadora.
+- **`apresentação/Roteiro.pdf`** — Roteiro estruturado de apresentação (*pitch*) alinhado aos 5 slides.
 
 ## Como Navegar pelo Repositório
 
-1. Comece pela **`Visao_Geral_Propostas_Hackathon.pdf`** para ter o mapa completo de como as ideias se conectam.
-2. Consulte os PDFs numerados (`Proposta_01` a `Proposta_04`) para ver os detalhes de cada dor, comparações de prós/contras e a documentação técnica de apoio.
+1. Comece pela **`Visao_Geral_Propostas_Hackathon.pdf`** (ou pelos slides na pasta **`apresentação/`**) para ter o mapa completo de como as ideias se conectam.
+2. Consulte os PDFs numerados (`Proposta_01` a `Proposta_04`) na raiz para ver os detalhes de cada dor, comparações de prós/contras e a documentação técnica de apoio.
 
 ## Equipe e Evento
 
-* **Evento:** Hackathon FMU — Edição 2026.2
-* **Empresa parceira:** Grupo Bovinu'S — Bovinu'S Grill & Beer (Unidade Augusta)
-* **Integrantes da equipe:** Roberdan Andrade & Gabriel Victor
+- **Evento:** Hackathon FMU — Edição 2026.2
+- **Empresa parceira:** Grupo Bovinu'S — Bovinu'S Grill & Beer (Unidade Augusta)
+- **Integrantes da equipe:** Roberdan Andrade & Gabriel Victor
